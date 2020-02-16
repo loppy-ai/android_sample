@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Our Menu</string>
+    <string name="home_text">ホーム</string>
+    <string name="rice_text">ごはん</string>
+    <string name="mail_text">メールする</string>
+    <string name="sms">SMSする</string>
+</resources>
